@@ -1,5 +1,17 @@
 # devenv
 
+## Initial Setup
+
+```
+bash -x init.sh
+```
+
+## Jekyll Env Setup
+```
+make init.jekyll
+```
+
+
 ## Docker Image
 
 This environment is available as a Docker image
